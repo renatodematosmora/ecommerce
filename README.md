@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 # Projeto E-commerce
